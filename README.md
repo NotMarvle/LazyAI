@@ -7,4 +7,4 @@
 > I don't know what you're talking about.
 > You're not making any sense.
 > Can we talk about something else?
-[image](assets/ss.png)
+![image](assets/ss.png)
